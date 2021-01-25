@@ -51,73 +51,37 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/button_1"
+                android:id="@+id/button_1_1"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@drawable/buttonstyle"
                 android:onClick="onClick"
+                android:text=" "
                 android:textSize="45sp"
                 app:backgroundTint="@color/white"
                 app:backgroundTintMode="multiply" />
 
             <Button
-                android:id="@+id/button_2"
+                android:id="@+id/button_1_2"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@drawable/buttonstyle"
                 android:onClick="onClick"
+                android:text=" "
                 android:textSize="45sp"
                 app:backgroundTint="@color/white"
                 app:backgroundTintMode="multiply" />
 
             <Button
-                android:id="@+id/button_3"
+                android:id="@+id/button_1_3"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@drawable/buttonstyle"
                 android:onClick="onClick"
-                android:textSize="45sp"
-                app:backgroundTint="@color/white"
-                app:backgroundTintMode="multiply" />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="1">
-
-            <Button
-                android:id="@+id/button_4"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:background="@drawable/buttonstyle"
-                android:onClick="onClick"
-                android:textSize="45sp"
-                app:backgroundTint="@color/white"
-                app:backgroundTintMode="multiply" />
-
-            <Button
-                android:id="@+id/button_5"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:background="@drawable/buttonstyle"
-                android:onClick="onClick"
-                android:textSize="45sp"
-                app:backgroundTint="@color/white"
-                app:backgroundTintMode="multiply" />
-
-            <Button
-                android:id="@+id/button_6"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:background="@drawable/buttonstyle"
-                android:onClick="onClick"
+                android:text=" "
                 android:textSize="45sp"
                 app:backgroundTint="@color/white"
                 app:backgroundTintMode="multiply" />
@@ -129,34 +93,79 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/button_7"
+                android:id="@+id/button_2_1"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@drawable/buttonstyle"
                 android:onClick="onClick"
+                android:text=" "
                 android:textSize="45sp"
                 app:backgroundTint="@color/white"
                 app:backgroundTintMode="multiply" />
 
             <Button
-                android:id="@+id/button_8"
+                android:id="@+id/button_2_2"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@drawable/buttonstyle"
                 android:onClick="onClick"
+                android:text=" "
                 android:textSize="45sp"
                 app:backgroundTint="@color/white"
                 app:backgroundTintMode="multiply" />
 
             <Button
-                android:id="@+id/button_9"
+                android:id="@+id/button_2_3"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@drawable/buttonstyle"
                 android:onClick="onClick"
+                android:text=" "
+                android:textSize="45sp"
+                app:backgroundTint="@color/white"
+                app:backgroundTintMode="multiply" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/button_3_1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/buttonstyle"
+                android:onClick="onClick"
+                android:text=" "
+                android:textSize="45sp"
+                app:backgroundTint="@color/white"
+                app:backgroundTintMode="multiply" />
+
+            <Button
+                android:id="@+id/button_3_2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/buttonstyle"
+                android:onClick="onClick"
+                android:text=" "
+                android:textSize="45sp"
+                app:backgroundTint="@color/white"
+                app:backgroundTintMode="multiply" />
+
+            <Button
+                android:id="@+id/button_3_3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/buttonstyle"
+                android:onClick="onClick"
+                android:text=" "
                 android:textSize="45sp"
                 app:backgroundTint="@color/white"
                 app:backgroundTintMode="multiply" />
